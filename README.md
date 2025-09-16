@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Santhosh-1608/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Santhosh-1608/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Santhosh-1608/LeetCode/tree/master/0130-surrounded-regions) |
 ## Depth-First Search
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Santhosh-1608/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Santhosh-1608/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Stack
 |  |
 | ------- |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Santhosh-1608/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Santhosh-1608/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
