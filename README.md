@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Santhosh-1608/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Santhosh-1608/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Santhosh-1608/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Santhosh-1608/LeetCode/tree/master/0130-surrounded-regions) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Santhosh-1608/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Santhosh-1608/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Santhosh-1608/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
