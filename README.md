@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Santhosh-1608/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/Santhosh-1608/LeetCode/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Santhosh-1608/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Santhosh-1608/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Santhosh-1608/LeetCode/tree/master/0130-surrounded-regions) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Santhosh-1608/LeetCode/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/Santhosh-1608/LeetCode/tree/master/0130-surrounded-regions) |
 ## Two Pointers
 |  |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Santhosh-1608/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Santhosh-1608/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
