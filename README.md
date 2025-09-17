@@ -48,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Santhosh-1608/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Santhosh-1608/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/Santhosh-1608/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Santhosh-1608/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Santhosh-1608/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/Santhosh-1608/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Greedy
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Santhosh-1608/LeetCode/tree/master/2429-design-a-food-rating-system) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Santhosh-1608/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
