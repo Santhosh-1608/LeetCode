@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Santhosh-1608/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Santhosh-1608/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Santhosh-1608/LeetCode/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/Santhosh-1608/LeetCode/tree/master/0169-majority-element) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Santhosh-1608/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/Santhosh-1608/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Depth-First Search
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Santhosh-1608/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Santhosh-1608/LeetCode/tree/master/0169-majority-element) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Santhosh-1608/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/Santhosh-1608/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## String
@@ -91,4 +93,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Santhosh-1608/LeetCode/tree/master/0054-spiral-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Santhosh-1608/LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Santhosh-1608/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Santhosh-1608/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
