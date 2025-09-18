@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Santhosh-1608/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Santhosh-1608/LeetCode/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/Santhosh-1608/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Santhosh-1608/LeetCode/tree/master/0229-majority-element-ii) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Santhosh-1608/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/Santhosh-1608/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Depth-First Search
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Santhosh-1608/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Santhosh-1608/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Santhosh-1608/LeetCode/tree/master/0229-majority-element-ii) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Santhosh-1608/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/Santhosh-1608/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## String
@@ -101,8 +103,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Santhosh-1608/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Santhosh-1608/LeetCode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Santhosh-1608/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Santhosh-1608/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
