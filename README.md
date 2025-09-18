@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Santhosh-1608/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/Santhosh-1608/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Santhosh-1608/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Santhosh-1608/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [2429-design-a-food-rating-system](https://github.com/Santhosh-1608/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Heap (Priority Queue)
 |  |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Santhosh-1608/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Santhosh-1608/LeetCode/tree/master/0229-majority-element-ii) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Santhosh-1608/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
