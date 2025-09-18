@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Santhosh-1608/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Santhosh-1608/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/Santhosh-1608/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Santhosh-1608/LeetCode/tree/master/3678-design-task-manager) |
 ## String
 |  |
 | ------- |
@@ -90,15 +91,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Santhosh-1608/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Santhosh-1608/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [2429-design-a-food-rating-system](https://github.com/Santhosh-1608/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Santhosh-1608/LeetCode/tree/master/3678-design-task-manager) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Santhosh-1608/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [2429-design-a-food-rating-system](https://github.com/Santhosh-1608/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Santhosh-1608/LeetCode/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Santhosh-1608/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Santhosh-1608/LeetCode/tree/master/3678-design-task-manager) |
 ## Sliding Window
 |  |
 | ------- |
