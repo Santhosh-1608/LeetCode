@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Santhosh-1608/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Santhosh-1608/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/Santhosh-1608/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/Santhosh-1608/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Santhosh-1608/LeetCode/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/Santhosh-1608/LeetCode/tree/master/0130-surrounded-regions) |
+| [3797-design-spreadsheet](https://github.com/Santhosh-1608/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,12 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Santhosh-1608/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/Santhosh-1608/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Santhosh-1608/LeetCode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Santhosh-1608/LeetCode/tree/master/3797-design-spreadsheet) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Santhosh-1608/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Santhosh-1608/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/Santhosh-1608/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/Santhosh-1608/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Greedy
 |  |
 | ------- |
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Santhosh-1608/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [2429-design-a-food-rating-system](https://github.com/Santhosh-1608/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Santhosh-1608/LeetCode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Santhosh-1608/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
